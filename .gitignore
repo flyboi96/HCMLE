@@ -1,22 +1,24 @@
-# Ignore Python bytecode
+# Python cache
 __pycache__/
-*.py[cod]
-*.so
+*.pyc
 
-# Ignore Jupyter notebook checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
-# Ignore system files
+# System junk
 .DS_Store
 Thumbs.db
 
-# Ignore environment files
-.env
-*.env
+# Data files
+*.csv
+*.xlsx
 
-# Ignore local data files (you can adjust this per block)
-*/data/*.csv
-*/data/*.xlsx
+# PDFs or large refs
+*.pdf
+*.epub
 
-# Ignore VS Code settings
+# VS Code settings (optional)
 .vscode/
+
+# Conda environment folders (if any)
+env/
