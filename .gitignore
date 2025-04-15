@@ -1,0 +1,22 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore local data files (you can adjust this per block)
+*/data/*.csv
+*/data/*.xlsx
+
+# Ignore VS Code settings
+.vscode/

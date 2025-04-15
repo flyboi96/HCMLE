@@ -1,0 +1,17 @@
+name: hcmle-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - notebook
+  - pip
+  - pip:
+      - plotly
+      - tqdm
