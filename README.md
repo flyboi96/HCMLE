@@ -1,3 +1,5 @@
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
+
 # 🧠 Human-Centered Machine Learning Engineer (HCMLE) Learning Plan
 
 This repository tracks my journey to become a **Human-Centered Machine Learning Engineer**, with an emphasis on:
