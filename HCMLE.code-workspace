@@ -1,0 +1,12 @@
+{
+    "folders": [
+      {
+      "path": "Block2"
+      }
+    ],
+    "settings": {
+      "python.defaultInterpreterPath": "/Users/AlexCorbin_1/anaconda3/envs/hcmle-env/bin/python",
+      "python.terminal.activateEnvironment": true,
+      "jupyter.interactiveWindow.mode": "perFile"
+    }
+  }
