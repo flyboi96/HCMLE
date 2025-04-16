@@ -38,9 +38,6 @@ You’ll learn to think in terms of **Series and DataFrames**, use Pandas’ pow
 
 ## 📝 Notes
 
-This block complements *Chapter 3* of the **Python Data Science Handbook**, including:
-- [Introducing Pandas Objects](./articles/Introducing%20Pandas%20Objects.pdf)
-- [Data Indexing and Selection](./articles/Data%20Indexing%20and%20Selection.pdf)
-- [Operating on Data in Pandas](./articles/Operating%20on%20Data%20in%20Pandas.pdf)
+This block complements *Chapter 3* of the **Python Data Science Handbook**
 
 You’re encouraged to annotate the notebooks with insights and questions as you go.
