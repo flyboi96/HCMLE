@@ -10,13 +10,14 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 
 ## 🗂️ Project Structure
 
-HCMLE/
-├── Block1/                    # Python fundamentals and environment setup
-├── Block2/                    # Data manipulation with Pandas
-├── environment.yml            # Reproducible Conda environment
-├── HCMLE.code-workspace       # VS Code workspace for auto-loading settings
-├── README.md                  # This file
-└── .gitignore                 # Ignore notebooks/data/output clutter
+| Path                      | Description                                      |
+|---------------------------|--------------------------------------------------|
+| `Block1/`                | Python fundamentals and environment setup        |
+| `Block2/`                | Data manipulation with Pandas                    |
+| `environment.yml`        | Reproducible Conda environment                   |
+| `HCMLE.code-workspace`   | VS Code workspace for auto-loading settings      |
+| `README.md`              | Main project overview and setup instructions     |
+| `.gitignore`             | Ignore notebooks, data, and system clutter       |
 
 ---
 
@@ -104,7 +105,6 @@ I’m using a [GitHub Project Board](https://github.com/flyboi96/HCMLE/projects)
 
 - *Python Data Science Handbook* by Jake VanderPlas  
 - *Designing with the Mind in Mind* by Jeff Johnson  
-- *Interpretable Machine Learning* by Christoph Molnar  
 - Real-world datasets (e.g., Titanic, Iris, UCI ML Repository)
 
 ---
