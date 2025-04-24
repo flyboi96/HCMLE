@@ -66,8 +66,8 @@ Deliverables have been saved, notebooks are cleaned, and all challenges have bee
 
 ## 🔍 Visual Insight Preview
 
-<a href="plots/survival_by_class.png">
-  <img src="plots/survival_by_class.png" alt="Survival Plot" width="400"/>
+<a href="notebooks/plots/survival_by_class.png">
+  <img src="notebooks/plots/survival_by_class.png" alt="Survival Plot" width="400"/>
 </a>
 
 > *Grouped survival rates by class and gender visualized using Seaborn*
