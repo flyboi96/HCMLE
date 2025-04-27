@@ -11,7 +11,7 @@ The primary goals were understanding how to:
 - Evaluate model performance using appropriate metrics
 
 ## File Structure
-
+```
 block3_intro_to_ml/
 ├── regression_housing.ipynb         # Notebook for housing prices regression
 ├── classification_titanic.ipynb     # Notebook for Titanic classification
@@ -22,6 +22,7 @@ block3_intro_to_ml/
 └── data/                            # (Optional) Folder for local copies of datasets
     ├── housing.csv
     └── titanic.csv
+```
 
 ## Highlights
 - Trained a **DecisionTreeRegressor** and calculated MAE to measure performance.
