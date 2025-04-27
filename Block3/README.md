@@ -48,6 +48,7 @@ git commit -m "Complete Block 3: Intro to ML basics (regression/classification)"
 
 # Push to GitHub
 git push origin main
+```bash
 
 ## How to Use
 
