@@ -1,12 +1,15 @@
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # 🧠 Human-Centered Machine Learning Engineer (HCMLE)
 
-Welcome to my self-guided journey toward becoming a **Human-Centered Machine Learning Engineer** — a role that blends technical excellence, responsible AI design, and real-world usability.
+This is a curated, self-directed journey toward becoming a **Human-Centered Machine Learning Engineer** — a role at the intersection of data science, human factors, and responsible AI. The focus is on developing robust technical skills *and* human-centered intuition for building ML systems that are usable, interpretable, and ethically sound.
 
 This repository is structured into focused learning "blocks," each with Jupyter notebooks, hands-on projects, and curated readings. The goal is to build deep technical understanding *and* the human-centered thinking needed to design useful, ethical, and interpretable ML systems.
 
 ---
+
 
 ## 🗂️ Project Structure
 
@@ -14,22 +17,23 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 |---------------------------|--------------------------------------------------|
 | `Block1/`                | Python fundamentals and environment setup        |
 | `Block2/`                | Data manipulation with Pandas                    |
+| `block3_intro_to_ml/`    | Intro to Machine Learning: Regression & Classification |
 | `environment.yml`        | Reproducible Conda environment                   |
 | `HCMLE.code-workspace`   | VS Code workspace for auto-loading settings      |
-| `README.md`              | Main project overview and setup instructions     |
+| `README.md`              | Project goals, learning blocks, and setup instructions     |
 | `.gitignore`             | Ignore notebooks, data, and system clutter       |
 
 ---
 
 ## 🧠 Blocks Overview
 
-| Block | Focus                                      | Status        |
-|-------|--------------------------------------------|---------------|
-| 1     | Python Fundamentals & Environment Setup     | ✅ Completed   |
-| 2     | Data Manipulation with Pandas               | 🚧 In Progress |
-| 3     | Visualization and Exploratory Analysis      | 🔜 Upcoming    |
-| 4     | Human-AI Interaction & Interpretability     | 🔜 Upcoming    |
-| 5+    | Modeling, UX, Prototyping, Ethics           | 🔜 Upcoming    |
+| Block | Focus                                               | Status        |
+|-------|------------------------------------------------------|---------------|
+| 1     | Python Fundamentals & Environment Setup              | ✅ Completed   |
+| 2     | Data Manipulation with Pandas                        | ✅ Completed |
+| 3     | Intro to Machine Learning: Regression & Classification | ✅ Completed   |
+| 4     | Human-AI Interaction & Interpretability              | 🔜 Upcoming    |
+| 5+    | Modeling, UX, Prototyping, Ethics                    | 🔜 Upcoming    |
 
 Each block includes:
 - 📓 `notebooks/` – clean and commented Jupyter notebooks  
@@ -95,6 +99,7 @@ I’m using a [GitHub Project Board](https://github.com/flyboi96/HCMLE/projects)
 
 - Python 3.11
 - Pandas, NumPy, Matplotlib, Seaborn
+- scikit-learn
 - JupyterLab & VS Code Notebooks
 - Git, GitHub, Conda
 - Markdown, GitHub Project Boards
@@ -111,4 +116,5 @@ I’m using a [GitHub Project Board](https://github.com/flyboi96/HCMLE/projects)
 
 ## 📝 License
 
-This project is open-source under the MIT License. You’re welcome to explore, fork, or use it as inspiration for your own learning path.
+This project is open-source under the MIT License.
+Feel free to fork, adapt, or use this project as inspiration for your own ML learning journey.
