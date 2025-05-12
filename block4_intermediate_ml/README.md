@@ -71,7 +71,7 @@ This block simulates real-world ML tasks—dealing with messy data, building rep
 | Day | Focus                     | Status  |
 |-----|---------------------------|---------|
 | 1   | Setup & Planning          | ✅ Complete |
-| 2   | Missing Values & Encoding | ⏳ Upcoming |
+| 2   | Missing Values & Encoding | ✅ Complete |
 ...
 
 ---
