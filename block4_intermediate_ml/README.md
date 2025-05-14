@@ -72,8 +72,8 @@ This block simulates real-world ML tasks—dealing with messy data, building rep
 |-----|---------------------------|---------|
 | 1   | Setup & Planning          | ✅ Complete |
 | 2   | Missing Values & Encoding | ✅ Complete |
-...
-
+| 3   | Feature Engineering & Pipelines | ✅ Complete |
+| 4   | Feature Engineering             | ⏳ In Progress |
 ---
 
 🧠 *Part of my self-guided curriculum to become a Human-Centered Machine Learning Engineer (HCMLE).*
