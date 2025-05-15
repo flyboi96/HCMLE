@@ -68,12 +68,13 @@ This block simulates real-world ML tasks—dealing with messy data, building rep
 
 ## 🔄 Progress Tracker
 
-| Day | Focus                     | Status  |
-|-----|---------------------------|---------|
-| 1   | Setup & Planning          | ✅ Complete |
-| 2   | Missing Values & Encoding | ✅ Complete |
-| 3   | Feature Engineering & Pipelines | ✅ Complete |
-| 4   | Feature Engineering             | ⏳ In Progress |
+| Day | Focus                              | Status         |
+|-----|-------------------------------------|----------------|
+| 1   | Setup & Planning                   | ✅ Complete     |
+| 2   | Missing Values & Encoding          | ✅ Complete     |
+| 3   | Preprocessing Pipeline & Evaluation| ✅ Complete     |
+| 4   | Feature Engineering                | ✅ Complete     |
+| 5   | Model Evaluation & Cross-Validation| ⏳ In Progress  |
 ---
 
 🧠 *Part of my self-guided curriculum to become a Human-Centered Machine Learning Engineer (HCMLE).*
