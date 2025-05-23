@@ -76,7 +76,8 @@ This block simulates real-world ML tasks—dealing with messy data, building rep
 | 4   | Feature Engineering                | ✅ Complete     |
 | 5   | Model Evaluation & Cross-Validation| ✅ Complete     |
 | 6   | Hyperparameter Tuning               | ✅ Complete     |
-| 7   | Final Model & Comparison Report     | ⏳ In Progress  |
+| 7   | Final Model & Comparison Report     | ✅ Complete     |
+| 8   | Cleanup, GitHub push, reflection    | ✅ Complete     |
 ---
 
 🧠 *Part of my self-guided curriculum to become a Human-Centered Machine Learning Engineer (HCMLE).*
