@@ -15,31 +15,40 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 
 | Path                      | Description                                      |
 |---------------------------|--------------------------------------------------|
-| `Block1/`                | Python fundamentals and environment setup        |
-| `Block2/`                | Data manipulation with Pandas                    |
-| `block3_intro_to_ml/`    | Intro to Machine Learning: Regression & Classification |
-| `environment.yml`        | Reproducible Conda environment                   |
-| `HCMLE.code-workspace`   | VS Code workspace for auto-loading settings      |
-| `README.md`              | Project goals, learning blocks, and setup instructions     |
-| `.gitignore`             | Ignore notebooks, data, and system clutter       |
+| `Block1/`                 | Python fundamentals and environment setup        |
+| `Block2/`                 | Data manipulation with Pandas                    |
+| `block3_intro_to_ml/`     | Intro to Machine Learning: Regression & Classification |
+| `block4_human_ai/`        | Human-AI Interaction & Interpretability          |
+| `block5_mini_project/`        | Mini ML Projects, Modeling, UX, Prototyping, Ethics |
+| `environment.yml`         | Reproducible Conda environment                   |
+| `HCMLE.code-workspace`    | VS Code workspace for auto-loading settings      |
+| `README.md`               | Project goals, learning blocks, and setup instructions |
+| `.gitignore`              | Ignore notebooks, data, and system clutter       |
 
 ---
 
 ## 🧠 Blocks Overview
 
 | Block | Focus                                               | Status        |
+|-------|-----------------------------------------------------|---------------|
+| 1     | Python Fundamentals & Environment Setup              | ✅ Completed   |
+| 2     | Data Manipulation with Pandas                        | ✅ Completed   |
+| 3     | Intro to Machine Learning: Regression & Classification | ✅ Completed   |
+| 4     | Human-AI Interaction & Interpretability              | ✅ Completed   |
+| 5+    | Mini ML Projects, Modeling, UX, Prototyping, Ethics | 🚧 In Progress |
 |-------|------------------------------------------------------|---------------|
 | 1     | Python Fundamentals & Environment Setup              | ✅ Completed   |
 | 2     | Data Manipulation with Pandas                        | ✅ Completed |
 | 3     | Intro to Machine Learning: Regression & Classification | ✅ Completed   |
-| 4     | Human-AI Interaction & Interpretability              | 🔜 Upcoming    |
-| 5+    | Modeling, UX, Prototyping, Ethics                    | 🔜 Upcoming    |
+| 4     | Human-AI Interaction & Interpretability              | ✅ Completed    |
+| 5+    | Mini ML Projects, Modeling, UX, Prototyping, Ethics                    | 🚧 In Progress    |
 
 Each block includes:
 - 📓 `notebooks/` – clean and commented Jupyter notebooks  
-- 📚 `articles/` – optional readings or references  
 - 📊 `data/` – sample datasets (if applicable)  
 - 📝 `README.md` – block-specific goals and progress  
+- 📄 `model_card.md` – model transparency summary  
+- 🧾 `project_schedule.md` – daily task plan for hands-on blocks
 
 ---
 
@@ -110,7 +119,9 @@ I’m using a [GitHub Project Board](https://github.com/flyboi96/HCMLE/projects)
 
 - *Python Data Science Handbook* by Jake VanderPlas  
 - *Designing with the Mind in Mind* by Jeff Johnson  
-- Real-world datasets (e.g., Titanic, Iris, UCI ML Repository)
+- Real-world datasets (e.g., Titanic, Iris, UCI ML Repository)  
+- *People + AI Guidebook* by Google PAIR  
+- *Storytelling with Data* by Cole Nussbaumer Knaflic
 
 ---
 
