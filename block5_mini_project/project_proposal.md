@@ -1,9 +1,10 @@
-
 # 🧠 Project Proposal – Gallstone Prediction
 
 ## 1. What is the problem?
 
 This project aims to develop a machine learning model that predicts the presence of gallstone disease using demographic, bioimpedance, and laboratory data. The dataset is sourced from a 2024 study conducted at Ankara VM Medical Park Hospital and includes 320 patients, with 161 diagnosed with gallstones. The goal is to use readily available non-imaging features to accurately identify individuals who are likely to have gallstone disease.
+
+The original study used nine machine learning algorithms, including Gradient Boosting (GB), Random Forest (RF), and XGBoost, to predict gallstones from the same dataset. Gradient Boosting achieved the highest accuracy (85.42%) and F1-score (0.86), while features such as Vitamin D, C-reactive protein (CRP), total body water, and lean mass were identified as most important.
 
 ## 2. Who is the user/stakeholder?
 
@@ -12,7 +13,7 @@ The primary stakeholders are internal medicine physicians and general practition
 ## 3. What does success look like?
 
 A successful model will:
-- Achieve an AUC-ROC score of at least 0.85 on hold-out data
+- Achieve an AUC-ROC score of at least 0.85 on hold-out data, matching or exceeding the benchmark established in the original publication using Gradient Boosting
 - Maintain sensitivity (recall for positive cases) ≥ 90%, minimizing false negatives
 - Use interpretable features so clinicians can understand and trust the predictions
 - Be robust to demographic variation (e.g., age, sex)
@@ -25,6 +26,8 @@ Gallstones affect a large portion of the adult population and can lead to seriou
 - Help prioritize high-risk patients for imaging
 - Reduce unnecessary imaging referrals
 - Improve early detection and treatment outcomes
+
+The published study demonstrated that non-imaging features, especially those from bioimpedance and laboratory tests, can be predictive of gallstone disease with accuracy comparable to ultrasound.
 
 Ultimately, this model can make care more proactive, equitable, and cost-effective.
 
