@@ -1,4 +1,4 @@
-# 🧠 Project Proposal – Gallstone Prediction
+# Project Proposal – Gallstone Prediction
 
 ## 1. What is the problem?
 

@@ -1,11 +1,11 @@
 
-# 📆 Block 5: Mini Project 1 – Project Schedule
+# Block 5: Mini Project 1 – Project Schedule
 
 This schedule outlines the 8-day plan for completing your end-to-end ML project along with readings that support human-centered design and storytelling.
 
 ---
 
-## ✅ Day 1 – Define the Project
+## Day 1 – Define the Project
 **Objective:** Define the end-to-end ML project’s scope, success criteria, and planning roadmap.
 **Tasks:**
 - Choose a beginner-friendly dataset from Kaggle or similar
@@ -21,7 +21,7 @@ This schedule outlines the 8-day plan for completing your end-to-end ML project 
 
 ---
 
-## 🧹 Day 2 – Data Cleaning
+## Day 2 – Data Cleaning
 **Objective:** Prepare your data for analysis.
 **Tasks:**
 - Load dataset into `day2_data_cleaning.ipynb`
@@ -37,7 +37,7 @@ This schedule outlines the 8-day plan for completing your end-to-end ML project 
 
 ---
 
-## 🔍 Day 3 – Exploratory Data Analysis
+## Day 3 – Exploratory Data Analysis
 **Objective:** Understand your data visually and statistically.
 **Tasks:**
 - Create `day3_eda.ipynb`
@@ -52,7 +52,7 @@ This schedule outlines the 8-day plan for completing your end-to-end ML project 
 
 ---
 
-## 🤖 Day 4 – Modeling (Baseline & Model 2)
+## Day 4 – Modeling (Baseline & Model 2)
 **Objective:** Train two models and begin comparison.
 **Tasks:**
 - Create `day4_modeling.ipynb`
@@ -68,7 +68,7 @@ This schedule outlines the 8-day plan for completing your end-to-end ML project 
 
 ---
 
-## 📊 Day 5 – Model Evaluation
+## Day 5 – Model Evaluation
 **Objective:** Evaluate models using performance metrics and compare trade-offs.
 **Tasks:**
 - Create `day5_model_eval.ipynb`
@@ -83,7 +83,7 @@ This schedule outlines the 8-day plan for completing your end-to-end ML project 
 
 ---
 
-## 🧠 Day 6 – Interpretability
+## Day 6 – Interpretability
 **Objective:** Make model decisions explainable and relatable.
 **Tasks:**
 - Create `day6_interpretability.ipynb`
@@ -98,7 +98,7 @@ This schedule outlines the 8-day plan for completing your end-to-end ML project 
 
 ---
 
-## 🧼 Day 7 – Polish & Model Card
+## Day 7 – Polish & Model Card
 **Objective:** Finalize your notebook and create transparent documentation.
 **Tasks:**
 - Create final project notebook `final_project.ipynb`: polished intro → EDA → models → eval → conclusion
@@ -113,7 +113,7 @@ This schedule outlines the 8-day plan for completing your end-to-end ML project 
 
 ---
 
-## 📣 Day 8 – Share & Reflect
+## Day 8 – Share & Reflect
 **Objective:** Write a summary and finalize the GitHub repo.
 **Tasks:**
 - Draft `blog_draft.md` with lessons learned and story arc

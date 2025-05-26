@@ -1,11 +1,11 @@
 
-# 🧪 Block 5: Mini Project 1 – Gallstone Disease Prediction
+# Block 5: Mini Project 1 – Gallstone Disease Prediction
 
 This repository contains the work completed during Block 5 of the HCMLE learning roadmap. The goal of this block was to conduct an end-to-end machine learning project that applies concepts learned in previous blocks and produces a human-centered, interpretable solution. The project focuses on predicting gallstone disease based on demographic, laboratory, and bioimpedance data.
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 **Project Title:** Predicting Gallstone Disease from Non-Imaging Data  
 **Dataset:** [Gallstone Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/1150/gallstone-1)  
@@ -19,7 +19,7 @@ Internal medicine physicians and general practitioners who must triage patients 
 
 ---
 
-## 🧠 Block Objectives
+## Block Objectives
 
 - Select and define a real-world ML problem
 - Load and preprocess clinical tabular data
@@ -31,7 +31,7 @@ Internal medicine physicians and general practitioners who must triage patients 
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 block5_mini_project/
@@ -48,7 +48,7 @@ block5_mini_project/
 
 ---
 
-## 📝 Deliverables
+## Deliverables
 
 - ✅ Cleaned dataset (`cleaned.csv`)
 - ✅ Full EDA and feature insight notebook
@@ -68,6 +68,6 @@ block5_mini_project/
 
 ---
 
-## ✅ Status
+## Status
 
 Block 5 is currently **in progress**. Stay tuned for daily commits and updates.
