@@ -36,12 +36,6 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 | 3     | Intro to Machine Learning: Regression & Classification | ✅ Completed   |
 | 4     | Human-AI Interaction & Interpretability              | ✅ Completed   |
 | 5+    | Mini ML Projects, Modeling, UX, Prototyping, Ethics | 🚧 In Progress |
-|-------|------------------------------------------------------|---------------|
-| 1     | Python Fundamentals & Environment Setup              | ✅ Completed   |
-| 2     | Data Manipulation with Pandas                        | ✅ Completed |
-| 3     | Intro to Machine Learning: Regression & Classification | ✅ Completed   |
-| 4     | Human-AI Interaction & Interpretability              | ✅ Completed    |
-| 5+    | Mini ML Projects, Modeling, UX, Prototyping, Ethics                    | 🚧 In Progress    |
 
 Each block includes:
 - 📓 `notebooks/` – clean and commented Jupyter notebooks  
