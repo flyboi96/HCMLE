@@ -36,7 +36,7 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 | 2     | Data Manipulation with Pandas                        | Completed   |
 | 3     | Intro to Machine Learning: Regression & Classification | Completed   |
 | 4     | Human-AI Interaction & Interpretability              | Completed   |
-| 5+    | Mini ML Project                                       | Completed   |
+| 5    | Mini ML Project                                       | Completed   |
 | 6     | Introduction to Deep Learning                        | In Progress |
 
 Each block includes:
