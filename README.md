@@ -2,7 +2,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# 🧠 Human-Centered Machine Learning Engineer (HCMLE)
+# Human-Centered Machine Learning Engineer (HCMLE)
 
 This is a curated, self-directed journey toward becoming a **Human-Centered Machine Learning Engineer** — a role at the intersection of data science, human factors, and responsible AI. The focus is on developing robust technical skills *and* human-centered intuition for building ML systems that are usable, interpretable, and ethically sound.
 
@@ -11,7 +11,7 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 ---
 
 
-## 🗂️ Project Structure
+## Project Structure
 
 | Path                      | Description                                      |
 |---------------------------|--------------------------------------------------|
@@ -20,6 +20,7 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 | `block3_intro_to_ml/`     | Intro to Machine Learning: Regression & Classification |
 | `block4_human_ai/`        | Human-AI Interaction & Interpretability          |
 | `block5_mini_project/`        | Mini ML Projects, Modeling, UX, Prototyping, Ethics |
+| `block6_deep_learning/`     | Neural networks and deep learning fundamentals |
 | `environment.yml`         | Reproducible Conda environment                   |
 | `HCMLE.code-workspace`    | VS Code workspace for auto-loading settings      |
 | `README.md`               | Project goals, learning blocks, and setup instructions |
@@ -27,37 +28,38 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 
 ---
 
-## 🧠 Blocks Overview
+## Blocks Overview
 
 | Block | Focus                                               | Status        |
 |-------|-----------------------------------------------------|---------------|
-| 1     | Python Fundamentals & Environment Setup              | ✅ Completed   |
-| 2     | Data Manipulation with Pandas                        | ✅ Completed   |
-| 3     | Intro to Machine Learning: Regression & Classification | ✅ Completed   |
-| 4     | Human-AI Interaction & Interpretability              | ✅ Completed   |
-| 5+    | Mini ML Projects, Modeling, UX, Prototyping, Ethics | 🚧 In Progress |
+| 1     | Python Fundamentals & Environment Setup              | Completed   |
+| 2     | Data Manipulation with Pandas                        | Completed   |
+| 3     | Intro to Machine Learning: Regression & Classification | Completed   |
+| 4     | Human-AI Interaction & Interpretability              | Completed   |
+| 5+    | Mini ML Project                                       | Completed   |
+| 6     | Introduction to Deep Learning                        | In Progress |
 
 Each block includes:
-- 📓 `notebooks/` – clean and commented Jupyter notebooks  
-- 📊 `data/` – sample datasets (if applicable)  
-- 📝 `README.md` – block-specific goals and progress  
-- 📄 `model_card.md` – model transparency summary  
-- 🧾 `project_schedule.md` – daily task plan for hands-on blocks
+- `notebooks/` – clean and commented Jupyter notebooks  
+- `data/` – sample datasets (if applicable)  
+- `README.md` – block-specific goals and progress  
+- `model_card.md` – model transparency summary  
+- `project_schedule.md` – daily task plan for hands-on blocks
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 To run this project locally with **Jupyter + Conda + VS Code**:
 
-### 🔧 1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/flyboi96/HCMLE.git
 cd HCMLE
 ```
 
-### 🧪 2. Create and activate the environment
+### 2. Create and activate the environment
 
 Make sure you have [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed.
 
@@ -66,7 +68,7 @@ conda env create -f environment.yml
 conda activate hcmle-env
 ```
 
-### 💻 3. Open in VS Code
+### 3. Open in VS Code
 
 To launch the project with the correct kernel, folders, and settings:
 
@@ -76,7 +78,7 @@ code HCMLE.code-workspace
 
 > Make sure you have the Python and Jupyter extensions installed in VS Code.
 
-### 🧹 4. Optional: Clean and update the environment
+### 4. Optional: Clean and update the environment
 
 If you add new packages:
 
@@ -92,13 +94,13 @@ conda env export --from-history > environment.yml
 
 ---
 
-## 📈 Progress Tracking
+## Progress Tracking
 
 I’m using a [GitHub Project Board](https://github.com/flyboi96/HCMLE/projects) and Issues to track tasks and milestones for each block. This keeps everything visible, organized, and reviewable over time.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python 3.11
 - Pandas, NumPy, Matplotlib, Seaborn
@@ -109,7 +111,7 @@ I’m using a [GitHub Project Board](https://github.com/flyboi96/HCMLE/projects)
 
 ---
 
-## 📚 Sample Resources
+## Sample Resources
 
 - *Python Data Science Handbook* by Jake VanderPlas  
 - *Designing with the Mind in Mind* by Jeff Johnson  
@@ -119,7 +121,7 @@ I’m using a [GitHub Project Board](https://github.com/flyboi96/HCMLE/projects)
 
 ---
 
-## 📝 License
+## License
 
 This project is open-source under the MIT License.
 Feel free to fork, adapt, or use this project as inspiration for your own ML learning journey.
