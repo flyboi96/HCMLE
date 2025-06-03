@@ -1,4 +1,3 @@
-
 # Block 5: Mini Project 1 – Gallstone Disease Prediction
 
 This repository contains the work completed during Block 5 of the HCMLE learning roadmap. The goal of this block was to conduct an end-to-end machine learning project that applies concepts learned in previous blocks and produces a human-centered, interpretable solution. The project focuses on predicting gallstone disease based on demographic, laboratory, and bioimpedance data.
@@ -37,6 +36,8 @@ Internal medicine physicians and general practitioners who must triage patients 
 block5_mini_project/
 │
 ├── data/                # Raw and cleaned data files
+├── data_dictionary.md        # Description of features in the dataset
+├── notes_success_criteria.md # Planning notes and success metrics
 ├── notebooks/           # Daily Jupyter notebooks
 ├── plots/               # Visualizations from EDA and modeling
 ├── models/              # Serialized model objects
@@ -50,18 +51,20 @@ block5_mini_project/
 
 ## Deliverables
 
-- ✅ Cleaned dataset (`cleaned.csv`)
-- ✅ Full EDA and feature insight notebook
-- ✅ Two trained models with evaluation metrics
-- ✅ Model interpretation (SHAP or feature importance)
-- ✅ Polished notebook with introduction, results, and conclusions
-- ✅ Model Card (`model_card.md`)
-- ✅ Blog-style summary (`blog_draft.md`)
-- ✅ GitHub-tagged release at the end of Day 8
+- Cleaned dataset (`cleaned.csv`)
+- Full EDA and feature insight notebook
+- Two trained models with evaluation metrics
+- Model interpretation (SHAP or feature importance)
+- Polished notebook with introduction, results, and conclusions
+- Model Card (`model_card.md`)
+- Blog-style summary (`blog_draft.md`)
+- GitHub-tagged release at the end of Day 8
+- Data Dictionary (`data_dictionary.md`)
+- Success Criteria Notes (`notes_success_criteria.md`)
 
 ---
 
-## 📚 Key Readings
+## Key Readings
 
 - **People + AI Guidebook**: User Needs, Mental Models, Explainability
 - **Storytelling with Data (Knaflic)**: Chapters on visual clarity, narrative, and user context
