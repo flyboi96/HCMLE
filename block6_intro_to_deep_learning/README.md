@@ -32,7 +32,7 @@ In this block, we explore the foundations of deep learning, beginning with a han
 | 5   | Train model on new dataset (e.g., MNIST)                        | `lesson1_alt_dataset.ipynb`, new model trained                  |
 | 6   | Generate predictions and visualizations                         | `plots/predictions_sample.png`, visuals in notebook             |
 | 7   | Write summary for a non-technical audience                      | `neural_net_summary.md`, plain-language explanation             |
-| 8   | Clean notebooks, tag repo, finalize README                      | Clean notebooks, 🔖 `block6_complete` tag, updated `README.md`  |
+| 8   | Clean notebooks, tag repo, finalize documentation               | Clean notebooks, updated README.md, 🔖 block6_complete tag  |
 
 ## Folder Structure
 
@@ -47,9 +47,9 @@ block6_intro_to_deep_learning/
 ```
 
 ## End of Block Deliverables
-
 - Trained fast.ai CNN model on pet dataset and new dataset
 - Annotated notebooks with markdown explanations
 - Visual prediction outputs and performance interpretation
 - Human-centered summary of neural network function
 - Updated documentation and clean version-controlled repo
+- Final summary written for non-technical audiences and documented in neural_net_summary.md
