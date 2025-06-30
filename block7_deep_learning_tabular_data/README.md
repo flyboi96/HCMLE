@@ -31,6 +31,17 @@ This block explores how deep learning techniques can be applied to structured/ta
 | 7   | Reflect on DL vs classical ML                       | `block7_reflection.md` with bullet summary                 |
 | 8   | Final cleanup and documentation                     | Clean notebooks, commit/tag, updated `README.md`           |
 
+| Day | Focus                               | Deliverables                                               |
+|-----|--------------------------------------|------------------------------------------------------------|
+| 1   | Define scope, choose path            | [`block7_schedule.md`](./block7_schedule.md)               |
+| 2   | Preprocess tabular dataset          | [`day2_preprocessing.ipynb`](./notebooks/day2_preprocessing.ipynb) |
+| 3   | Define model architecture           | [`day3_model.ipynb`](./notebooks/day3_model.ipynb)         |
+| 4   | Train model and evaluate            | [`day4_train.ipynb`](./notebooks/day4_train.ipynb), [`block7_model.pkl`](./models/block7_model.pkl) |
+| 5   | Test on holdout set                 | [`day5_model_evaluation.ipynb`](./notebooks/day5_model_evaluation.ipynb) |
+| 6   | Interpret model results             | [`day6_feature_importance.ipynb`](./notebooks/day6_feature_importance.ipynb), `plots/` |
+| 7   | Reflect on DL vs classical ML       | [`block7_reflection.md`](./block7_reflection.md)           |
+| 8   | Final cleanup and documentation     | Cleaned notebooks, Git tag `day8_complete`, this README    |
+
 ---
 
 ## Directory Structure
@@ -47,6 +58,23 @@ block7_deep_learning_tabular_data/
 ├── notes_success_criteria.md # Completion criteria for the block
 ├── block7_reflection.md      # Final reflection on the block
 ```
+
+---
+
+## Final Model Performance
+
+- **Validation RMSE:** 511.17
+- **Model type:** Tabular Neural Network (fastai)
+- **Top predictors (drop-column importance):** Customers, Promo, Month, CompetitionDistance
+
+---
+
+## Interpretability Artifacts
+
+- [Permutation Feature Importance](./plots/permutation_feature_importance.png)
+- [Partial Dependence - Customers](./plots/pdp_customers.png)
+- [SHAP Summary Plot](./plots/shap_summary.png)
+- [Embeddings - StoreType](./plots/embedding_storetype.png)
 
 ---
 
