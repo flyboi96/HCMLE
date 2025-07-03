@@ -73,7 +73,7 @@ block7_deep_learning_tabular_data/
 
 - [Permutation Feature Importance](./plots/permutation_feature_importance.png)
 - [Partial Dependence - Customers](./plots/pdp_customers.png)
-- [SHAP Summary Plot](./plots/shap_summary.png)
+- [SHAP Summary Plot](./plots/shap_tree_summary.png)
 - [Embeddings - StoreType](./plots/embedding_storetype.png)
 
 ---
