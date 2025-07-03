@@ -38,7 +38,8 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 | 4     | Human-AI Interaction & Interpretability              | Completed   |
 | 5    | Mini ML Project                                       | Completed   |
 | 6     | Introduction to Deep Learning                        | Completed   |
-| 7     | Deep Learning for NLP or Tabular Data                | Upcoming    |
+| 7     | Deep Learning for NLP or Tabular Data                | Completed   |
+| 8     | Data Visualization & Communication                   | In Progress   |
 
 Each block includes:
 - `notebooks/` – clean and commented Jupyter notebooks  
