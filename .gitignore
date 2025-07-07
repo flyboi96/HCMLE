@@ -22,3 +22,6 @@ Thumbs.db
 
 # Conda environment folders (if any)
 env/
+
+# Ignore all virtual environments
+*/fastai-env/
