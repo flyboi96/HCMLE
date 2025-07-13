@@ -21,4 +21,4 @@
 
 ---
 
-Overall, this exercise reinforced how interactive tools can complement Python for communication, but may be limited for complex data workflows.
+Overall, this exercise reinforced how interactive tools can complement Python for communication, but may be limited for complex data workflows. 
