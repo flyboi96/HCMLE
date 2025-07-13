@@ -20,7 +20,10 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 | `block3_intro_to_ml/`     | Intro to Machine Learning: Regression & Classification |
 | `block4_human_ai/`        | Human-AI Interaction & Interpretability          |
 | `block5_mini_project/`        | Mini ML Projects, Modeling, UX, Prototyping, Ethics |
-| `block6_deep_learning/`     | Neural networks and deep learning fundamentals |
+| `block6_intro_to_deep_learning/`     | Neural networks and deep learning fundamentals |
+| `block7_deep_learning_tabular_data/`     | Deep learning with tabular data and embedding models |
+| `block8_data_visualization/`     | Communicating ML insights through Python visualization and design |
+| `block9_human_centered_design/`     | Fundamentals of UX and human-centered design for ML solutions |
 | `environment.yml`         | Reproducible Conda environment                   |
 | `HCMLE.code-workspace`    | VS Code workspace for auto-loading settings      |
 | `README.md`               | Project goals, learning blocks, and setup instructions |
@@ -39,7 +42,8 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 | 5    | Mini ML Project                                       | Completed   |
 | 6     | Introduction to Deep Learning                        | Completed   |
 | 7     | Deep Learning for NLP or Tabular Data                | Completed   |
-| 8     | Data Visualization & Communication                   | In Progress   |
+| 8     | Data Visualization & Communication                   | Completed     |
+| 9     | Human-Centered Design Fundamentals                   | In Progress     |
 
 Each block includes:
 - `notebooks/` – clean and commented Jupyter notebooks  

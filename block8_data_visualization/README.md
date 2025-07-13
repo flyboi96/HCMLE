@@ -24,7 +24,7 @@ Develop the ability to communicate data and model results effectively through cl
 | 5   | Build mini-results dashboard               | Notebook with full dashboard and visual summaries                  |
 | 6   | Write insight report                       | Short narrative explaining charts and insights                     |
 | 7   | (Optional) Try Tableau/Data Studio         | Recreated chart + pros/cons reflection                             |
-| 8   | Finalize and document                      | Clean notebooks, commit/tag repo, update documentation             |
+| 8   | Finalize and document                      | All notebooks polished and committed, README and docs updated      |
 
 ## Deliverables
 
@@ -37,4 +37,4 @@ Develop the ability to communicate data and model results effectively through cl
 
 ## Status
 
-Block 8 is currently **in progress**. See `block8_schedule.md` for daily objectives and tracked progress.
+Block 8 is now **complete**. See `block8_schedule.md` for daily objectives and tracked progress.
