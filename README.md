@@ -24,6 +24,7 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 | `block7_deep_learning_tabular_data/`     | Deep learning with tabular data and embedding models |
 | `block8_data_visualization/`     | Communicating ML insights through Python visualization and design |
 | `block9_human_centered_design/`     | Fundamentals of UX and human-centered design for ML solutions |
+| `block12_XAI/`             | Explainable AI techniques: SHAP, LIME, PDP |
 | `environment.yml`         | Reproducible Conda environment                   |
 | `HCMLE.code-workspace`    | VS Code workspace for auto-loading settings      |
 | `README.md`               | Project goals, learning blocks, and setup instructions |
@@ -44,6 +45,7 @@ This repository is structured into focused learning "blocks," each with Jupyter 
 | 7     | Deep Learning for NLP or Tabular Data                | Completed   |
 | 8     | Data Visualization & Communication                   | Completed     |
 | 9     | Human-Centered Design Fundamentals                   | In Progress     |
+| 12    | Explainable AI Techniques                         | In Progress     |
 
 Each block includes:
 - `notebooks/` – clean and commented Jupyter notebooks  
@@ -123,7 +125,9 @@ I’m using a [GitHub Project Board](https://github.com/flyboi96/HCMLE/projects)
 - *Designing with the Mind in Mind* by Jeff Johnson  
 - Real-world datasets (e.g., Titanic, Iris, UCI ML Repository)  
 - *People + AI Guidebook* by Google PAIR  
-- *Storytelling with Data* by Cole Nussbaumer Knaflic
+- *Storytelling with Data* by Cole Nussbaumer Knaflic  
+- *Interpretable Machine Learning* by Christoph Molnar
+- Kaggle & DataCamp tutorials on Explainability (LIME, SHAP)
 
 ---
 
